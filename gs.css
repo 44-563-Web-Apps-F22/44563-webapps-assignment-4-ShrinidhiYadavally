@@ -1,0 +1,89 @@
+.speech {
+    font-family:fantasy
+    font-size: 15px;
+    color: black;
+}
+
+.direction {
+    font-family: fantasy;
+    font-size: 13px;
+    color: black;
+    background-color:mistyrose;
+}
+
+.name {
+    font-family:fantasy
+    font-size: 15px;
+    color: black;
+}
+
+.direction:hover {
+    background-color: crimson;
+    color: white;
+}
+
+.song{
+    font-family:fantasy
+    font-size: medium;
+    color:black;
+    background-color: lavender;
+}
+
+.chorus {
+    font-family:fantasy
+    font-size: medium;
+    color:orchid;
+}
+
+.GIULIA {
+    color: orange;
+}
+
+.ANTONIO {
+    color: lightpink;
+}
+
+.FIAMETTA {
+    color:blueviolet
+}
+
+.VITTORIA {
+    color:cyan
+}
+
+table {
+    border: 5px solid black;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+th {
+    background-color:azure;
+}
+
+tr:nth-child(odd) {
+    background-color:bisque;
+}
+.name:hover {
+    text-shadow: 3px 3px yellow;
+    border: 2px solid indigo;
+}
+
+.navbar-horizontal {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 5px;
+    background-color:pink;
+}
+
+li a {
+    display: block;
+    color: black;
+    float: left;
+    padding: 5px;
+    text-decoration: none;
+}
+
